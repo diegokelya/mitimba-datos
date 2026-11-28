@@ -1,0 +1,268 @@
+{
+  "checkedAt": "2026-11-28T08:22:44.628Z",
+  "sources": [
+    {
+      "key": "lotba",
+      "available": true,
+      "records": 826,
+      "error": ""
+    },
+    {
+      "key": "corrientes",
+      "available": true,
+      "records": 10,
+      "error": ""
+    },
+    {
+      "key": "catamarca",
+      "available": true,
+      "records": 5,
+      "error": ""
+    },
+    {
+      "key": "rio-negro",
+      "available": true,
+      "records": 10,
+      "error": ""
+    },
+    {
+      "key": "santa-cruz",
+      "available": true,
+      "records": 1,
+      "error": ""
+    },
+    {
+      "key": "chaco",
+      "available": false,
+      "records": 0,
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "key": "san-luis",
+      "available": true,
+      "records": 5,
+      "error": ""
+    },
+    {
+      "key": "san-juan",
+      "available": true,
+      "records": 3,
+      "error": ""
+    },
+    {
+      "key": "misiones",
+      "available": true,
+      "records": 5,
+      "error": ""
+    },
+    {
+      "key": "tucuman",
+      "available": true,
+      "records": 5,
+      "error": ""
+    },
+    {
+      "key": "iafas",
+      "available": true,
+      "records": 2,
+      "error": ""
+    },
+    {
+      "key": "formosa",
+      "available": true,
+      "records": 18,
+      "error": ""
+    },
+    {
+      "key": "official-images",
+      "available": true,
+      "records": 28,
+      "error": ""
+    },
+    {
+      "key": "corrientes-history",
+      "available": true,
+      "records": 10,
+      "skipped": 10,
+      "missing": [
+        "2026-11-28",
+        "2026-11-22",
+        "2026-11-15"
+      ],
+      "errors": []
+    },
+    {
+      "key": "santa-cruz-history",
+      "available": true,
+      "records": 24,
+      "skipped": 0,
+      "missing": [
+        "2026-11-28",
+        "2026-11-23",
+        "2026-11-22",
+        "2026-11-21",
+        "2026-11-15"
+      ],
+      "errors": []
+    },
+    {
+      "key": "tucuman-history",
+      "available": true,
+      "records": 5,
+      "skipped": 10,
+      "missing": [
+        "2026-11-28",
+        "2026-11-22",
+        "2026-11-15"
+      ],
+      "errors": []
+    },
+    {
+      "key": "chubut-images",
+      "available": true,
+      "records": 2,
+      "held": [
+        {
+          "date": "2026-11-27",
+          "session": "Previa",
+          "url": "https://loteriadelchubut.com.ar/wp-content/uploads/2026/11/chubut-previa-27-11.png",
+          "reason": "Lectura no confirmada en el puesto 18"
+        },
+        {
+          "date": "2026-11-27",
+          "session": "Vespertina",
+          "url": "https://loteriadelchubut.com.ar/wp-content/uploads/2026/11/chubut-vespertina-27-11.png",
+          "reason": "Lectura no confirmada en el puesto 5"
+        }
+      ]
+    },
+    {
+      "key": "rioja-images",
+      "available": true,
+      "records": 3,
+      "held": []
+    }
+  ],
+  "coverage": {
+    "Ciudad": {
+      "records": 149,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Buenos Aires": {
+      "records": 149,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Córdoba": {
+      "records": 155,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Santa Fe": {
+      "records": 149,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Entre Ríos": {
+      "records": 155,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Mendoza": {
+      "records": 149,
+      "days": 30,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "Corrientes": {
+      "records": 145,
+      "days": 29,
+      "firstDate": "2026-10-26",
+      "lastDate": "2026-11-27"
+    },
+    "Catamarca": {
+      "records": 24,
+      "days": 5,
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-27"
+    },
+    "Río Negro": {
+      "records": 25,
+      "days": 5,
+      "firstDate": "2026-11-23",
+      "lastDate": "2026-11-27"
+    },
+    "Neuquén": {
+      "records": 25,
+      "days": 5,
+      "firstDate": "2026-11-23",
+      "lastDate": "2026-11-27"
+    },
+    "Formosa": {
+      "records": 42,
+      "days": 7,
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-27"
+    },
+    "Chaco": {
+      "records": 145,
+      "days": 29,
+      "firstDate": "2026-10-26",
+      "lastDate": "2026-11-27"
+    },
+    "San Luis": {
+      "records": 25,
+      "days": 5,
+      "firstDate": "2026-11-23",
+      "lastDate": "2026-11-27"
+    },
+    "Misiones": {
+      "records": 29,
+      "days": 7,
+      "firstDate": "2026-11-20",
+      "lastDate": "2026-11-27"
+    },
+    "Santa Cruz": {
+      "records": 77,
+      "days": 23,
+      "firstDate": "2026-10-26",
+      "lastDate": "2026-11-27"
+    },
+    "Tucumán": {
+      "records": 140,
+      "days": 28,
+      "firstDate": "2026-10-26",
+      "lastDate": "2026-11-27"
+    },
+    "Chubut": {
+      "records": 15,
+      "days": 4,
+      "firstDate": "2026-11-24",
+      "lastDate": "2026-11-27"
+    },
+    "San Juan": {
+      "records": 18,
+      "days": 6,
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-27"
+    },
+    "Montevideo": {
+      "records": 53,
+      "days": 29,
+      "firstDate": "2026-10-24",
+      "lastDate": "2026-11-27"
+    },
+    "La Rioja": {
+      "records": 13,
+      "days": 6,
+      "firstDate": "2026-11-21",
+      "lastDate": "2026-11-27"
+    }
+  }
+}
